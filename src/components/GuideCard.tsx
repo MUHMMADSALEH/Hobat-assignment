@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 const idx=[0,2,4]
 type GuideCardProps = {
-    icon: React.ComponentType; // Specify that icon is a component type
+    icon: string; // Specify that icon is a component type
     label: string;
     index: number;
   };
