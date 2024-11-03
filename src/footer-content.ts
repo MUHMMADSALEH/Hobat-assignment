@@ -1,0 +1,1 @@
+export const footerContent=[{title:"Company",content:["About","FAQ"]},{title:"Terms",content:["Data privacy","Terms","Accessibility"]},{title:"Related",content:["Find Buyer","Feedback"]}]
