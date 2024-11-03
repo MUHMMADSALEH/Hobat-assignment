@@ -1,7 +1,7 @@
 import React from 'react'
 import CheckedIcon from "@/assets/checked.svg"
 
-const CheckedPoint = ({point}:{point:string}) => {
+const CheckedPoint = ({point}:{point:string | undefined}) => {
     return (
         
           
