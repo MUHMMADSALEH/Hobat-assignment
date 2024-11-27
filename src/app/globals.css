@@ -7,3 +7,7 @@
       @apply lg:max-w-5xl
   }
 }
+
+::-webkit-scrollbar{
+  display: none;
+}
